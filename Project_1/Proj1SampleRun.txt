@@ -1,0 +1,157 @@
+Please enter the text: 
+Hi my name is Leo
+
+u/U: Update
+f/F: Find & Replace
+t/T: Transform
+s/S: Statistics
+e/E: Exit
+-------------
+Enter your choice:
+u
+Please enter the text:
+Hello My name is leo1234!-~~
+The new text is: Hello My name is leo1234!-~~
+
+u/U: Update
+f/F: Find & Replace
+t/T: Transform
+s/S: Statistics
+e/E: Exit
+-------------
+Enter your choice:
+S
+There are a total of 28 characters in the text.
+Letter characters account for 57.14 percent in the text.
+Digit characters account for 14.29 percent in the text.
+Special characters account for 7.14 percent in the text.
+Punctuation characters account for 7.14 percent in the text.
+
+u/U: Update
+f/F: Find & Replace
+t/T: Transform
+s/S: Statistics
+e/E: Exit
+-------------
+Enter your choice:
+t
+This text is reverse-halved as:  eman yM olleH~~-!4321oel si
+
+u/U: Update
+f/F: Find & Replace
+t/T: Transform
+s/S: Statistics
+e/E: Exit
+-------------
+Enter your choice: 
+t
+This text is reverse-halved as: Hello My name is leo1234!-~~
+
+u/U: Update
+f/F: Find & Replace
+t/T: Transform
+s/S: Statistics
+e/E: Exit
+-------------
+Enter your choice:
+t
+This text is reverse-halved as:  eman yM olleH~~-!4321oel si
+
+u/U: Update
+f/F: Find & Replace
+t/T: Transform
+s/S: Statistics
+e/E: Exit
+-------------
+Enter your choice:
+t
+This text is reverse-halved as: Hello My name is leo1234!-~~
+
+u/U: Update
+f/F: Find & Replace
+t/T: Transform
+s/S: Statistics
+e/E: Exit
+-------------
+Enter your choice:
+t
+This text is scrambled as: H~e~l-l!o4 3M2y1 onealm es i
+
+u/U: Update
+f/F: Find & Replace
+t/T: Transform
+s/S: Statistics
+e/E: Exit
+-------------
+Enter your choice:
+s
+There are a total of 28 characters in the text.
+Letter characters account for 57.14 percent in the text.
+Digit characters account for 14.29 percent in the text.
+Special characters account for 7.14 percent in the text.
+Punctuation characters account for 7.14 percent in the text.
+
+u/U: Update
+f/F: Find & Replace
+t/T: Transform
+s/S: Statistics
+e/E: Exit
+-------------
+Enter your choice:
+f
+Please enter the character sequence to find:
+es i
+Please enter the replacement sequence:
+12 3
+The new text is: H~e~l-l!o4 3M2y1 onealm 12 3
+
+u/U: Update
+f/F: Find & Replace
+t/T: Transform
+s/S: Statistics
+e/E: Exit
+t/T: Transform
+s/S: Statistics
+e/E: Exit
+s/S: Statistics
+e/E: Exit
+-------------
+e/E: Exit
+-------------
+-------------
+Enter your choice:
+Enter your choice:
+a
+a
+Invalid option! Try again!
+Invalid option! Try again!
+
+
+u/U: Update
+u/U: Update
+f/F: Find & Replace
+f/F: Find & Replace
+t/T: Transform
+t/T: Transform
+s/S: Statistics
+s/S: Statistics
+e/E: Exit
+-------------
+-------------
+Enter your choice:
+`
+Enter your choice:
+`
+Invalid option! Try again!
+`
+Invalid option! Try again!
+Invalid option! Try again!
+
+u/U: Update
+f/F: Find & Replace
+t/T: Transform
+s/S: Statistics
+e/E: Exit
+-------------
+Enter your choice:
+E
