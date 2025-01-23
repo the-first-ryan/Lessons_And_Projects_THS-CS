@@ -1,3 +1,4 @@
+import java.util.Scanner;
 import java.util.Random;
 
 /** Project 1 skeleton code.
@@ -136,6 +137,13 @@ public class Proj1 {
     * @param args commandline args
     */
    public static void main(String[] args) {
+
+        // scanner stuff to get input 
+
+
+        //loop that runs until user eixts
+            // if for the diff input 
+
 
    }
 }
